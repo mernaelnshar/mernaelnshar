@@ -25,11 +25,6 @@
 
 ---
 
-### 💼 Projects
-All of my projects are available at: [GitHub](https://github.com/mernaelnshar)
-
----
-
 ### 🧩 Ask Me About
 - ⚛️ React  
 - 🖌 CSS / Sass  
